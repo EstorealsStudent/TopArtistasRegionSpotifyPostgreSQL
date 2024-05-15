@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net8.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\estor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\estor\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
